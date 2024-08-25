@@ -6,5 +6,6 @@ Key Features:
 * AWS Integration: Utilizes AWS CodePipeline, CodeCommit, CodeBuild, and CodeDeploy.
 * Hands-On Learning: Focuses on gaining practical experience with cloud-based CI/CD tools.
   
+  
 Objective:
 To learn and implement a CI/CD pipeline using AWS CodePipeline, enhancing understanding of automated software delivery practices.
